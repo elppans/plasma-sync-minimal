@@ -1,0 +1,18 @@
+[Desktop Entry]
+Categories=Qt;Development;
+Comment=Design GUIs for Qt applications
+Exec=designer6 %F
+GenericName=Interface Designer
+Icon=designer
+MimeType=application/x-designer;
+Name=Qt Widgets Designer
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

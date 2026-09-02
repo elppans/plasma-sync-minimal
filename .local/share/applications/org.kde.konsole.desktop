@@ -1,0 +1,39 @@
+[Desktop Entry]
+Actions=NewWindow;NewTab;
+Categories=Qt;KDE;System;TerminalEmulator;
+Comment=Usar a linha de comando
+Exec=konsole
+GenericName[pt_BR]=Terminal
+GenericName=Terminal
+Icon=utilities-terminal
+Keywords[pt_BR]=terminal;console;script;executar;rodar;comando;linha de comando;cli;bash;sh;shell;zsh;cmd;prompt de comando;xterm;tty;pty;fish;konsole
+Keywords=terminal;console;script;run;execute;command;command-line;commandline;cli;bash;sh;shell;zsh;cmd;command prompt;xterm;tty;pty;fish;konsole
+Name[pt_BR]=Konsole
+Name=Konsole
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=konsole
+Terminal=false
+TerminalOptions=
+TryExec=konsole
+Type=Application
+X-DocPath=konsole/index.html
+X-KDE-AuthorizeAction=shell_access
+X-KDE-Shortcuts=Ctrl+Alt+T
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
+[Desktop Action NewTab]
+Exec=konsole --new-tab
+Icon=tab-new
+Name[pt_BR]=Abrir nova aba
+Name=Open New Tab
+
+[Desktop Action NewWindow]
+Exec=konsole
+Icon=window-new
+Name[pt_BR]=Abrir nova janela
+Name=Open New Window

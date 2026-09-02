@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;Development;Debugger;
+Comment=Debug D-Bus applications
+Exec=qdbusviewer6
+GenericName=D-Bus Debugger
+Icon=qdbusviewer
+Name=Qt D-Bus Viewer
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

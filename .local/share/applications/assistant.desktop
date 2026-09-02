@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;Development;Documentation;
+Comment=View documentation in Qt help file format
+Exec=assistant6
+GenericName=Documentation viewer
+Icon=assistant
+Name=Qt Assistant
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=

@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;Development;
+Comment=Add translations to Qt applications
+Exec=linguist6 %F
+Icon=linguist
+MimeType=text/vnd.trolltech.linguist;application/x-linguist;
+Name=Qt Linguist
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
