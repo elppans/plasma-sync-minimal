@@ -1,0 +1,51 @@
+[Desktop Entry]
+Actions=overview;history;processes;applications;
+Categories=Qt;KDE;System;
+Comment=Monitore a utilização de recursos do sistema
+Exec=plasma-systemmonitor
+GenericName[pt_BR]=Monitor do sistema
+GenericName=System Monitor
+Icon=utilities-system-monitor
+Keywords[pt_BR]=tarefa;gerenciador;processo;cpu;memória;
+Keywords=task;manager;process;cpu;memory;
+Name[pt_BR]=Monitor do sistema
+Name=System Monitor
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+SingleMainWindow=true
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=org.kde.plasma-systemmonitor
+X-DBUS-StartupType=Unique
+X-KDE-Migrate-Shortcut=kded5,Show System Activity
+X-KDE-Shortcuts=Meta+Esc
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+
+[Desktop Action applications]
+Exec=plasma-systemmonitor --page-id applications.page
+Icon=applications-all-symbolic
+Name[pt_BR]=Abrir a Página de aplicativos
+Name=Open Applications Page
+
+[Desktop Action history]
+Exec=plasma-systemmonitor --page-id history.page
+Icon=office-chart-line-symbolic
+Name[pt_BR]=Abrir a Página de histórico
+Name=Open History Page
+
+[Desktop Action overview]
+Exec=plasma-systemmonitor --page-id overview.page
+Icon=speedometer-symbolic
+Name[pt_BR]=Abrir a Página de visão geral
+Name=Open Overview Page
+
+[Desktop Action processes]
+Exec=plasma-systemmonitor --page-id processes.page
+Icon=view-process-system-symbolic
+Name[pt_BR]=Abrir a Página de processos
+Name=Open Processes Page

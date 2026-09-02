@@ -1,0 +1,25 @@
+[Desktop Entry]
+Categories=Qt;KDE;Utility;TextEditor;
+Comment=Editor de texto do KDE
+Exec=kwrite %U
+GenericName[pt_BR]=Editor de Texto
+GenericName=Text Editor
+Icon=kwrite
+InitialPreference=8
+Keywords[pt_BR]=texto;txt;editor;nota;notepad;bloco de notas;
+Keywords=text;txt;editor;note;notepad;
+MimeType=text/plain;
+Name[pt_BR]=KWrite
+Name=KWrite
+NoDisplay=false
+OnlyShowIn=KDE;
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+StartupWMClass=kwrite
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DocPath=kwrite/index.html
+X-KDE-SubstituteUID=false
+X-KDE-Username=
