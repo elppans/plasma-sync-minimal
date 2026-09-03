@@ -3,8 +3,8 @@ _k_friendly_name=Gerenciador de atividades
 switch-to-activity-5f160e4f-d5ea-46d0-855f-b9ff42111e63=none,none,Alternar para a atividade "Padrão"
 
 [KDE Keyboard Layout Switcher]
-Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,
-Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,
+Switch to Last-Used Keyboard Layout=Meta+Alt+L,Meta+Alt+L,Alternar para o layout de teclado usado por último
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Alternar para o próximo layout de teclado
 _k_friendly_name=Seletor de layouts de teclado
 
 [kaccess]
@@ -32,7 +32,7 @@ LogOut=none,none,Encerrar sessão
 Reboot=none,none,Reiniciar
 Reboot Without Confirmation=none,none,Reiniciar sem confirmação
 Shut Down=none,none,Desligar
-_k_friendly_name=Gerenciamento de sessão
+_k_friendly_name=Gerenciamento de sessões
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Ativar janela que demanda atenção
