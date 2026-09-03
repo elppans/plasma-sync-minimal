@@ -32,7 +32,7 @@ LogOut=none,none,Encerrar sessão
 Reboot=none,none,Reiniciar
 Reboot Without Confirmation=none,none,Reiniciar sem confirmação
 Shut Down=none,none,Desligar
-_k_friendly_name=Gerenciamento de sessões
+_k_friendly_name=Gerenciamento de sessão
 
 [kwin]
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,Ativar janela que demanda atenção
