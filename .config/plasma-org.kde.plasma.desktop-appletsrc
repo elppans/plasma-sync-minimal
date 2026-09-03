@@ -70,7 +70,7 @@ immutability=1
 plugin=org.kde.plasma.icontasks
 
 [Containments][2][Applets][5][Configuration][General]
-launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop
+launchers=applications:systemsettings.desktop,applications:org.kde.konsole.desktop,applications:org.kde.dolphin.desktop
 
 [Containments][2][Applets][6]
 immutability=1
@@ -119,11 +119,15 @@ migrated=true
 
 [Containments][2][Applets][7][Applets][18]
 immutability=1
-plugin=org.kde.plasma.brightness
+plugin=org.kde.kscreen
 
 [Containments][2][Applets][7][Applets][19]
 immutability=1
 plugin=org.kde.plasma.battery
+
+[Containments][2][Applets][7][Applets][20]
+immutability=1
+plugin=org.kde.plasma.brightness
 
 [Containments][2][Applets][7][Applets][8]
 immutability=1
